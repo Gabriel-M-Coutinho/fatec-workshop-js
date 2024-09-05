@@ -6,7 +6,7 @@ function somar (number1,number2) {
     return number1 + number2;
 }
 
-console.log(somar());
+console.log(somar(x,y));
 
 /*
 Nome: Gabriel Coutinho
