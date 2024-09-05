@@ -10,5 +10,6 @@ console.log(somar());
 
 /*
 Nome: Gabriel Coutinho
-Semestre: Primeiro Semestre Desenvolvimento de Software Multiplataforma
+Semestre: Primeiro Semestre
+Curso: Desenvolvimento de Software Multiplataforma
 */ 
